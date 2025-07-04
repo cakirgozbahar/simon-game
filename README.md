@@ -12,7 +12,7 @@ Click image and watch the demo.
 ### 💻 Live Demo
 
 Try it here:
-> 🔗[Play Simon Game]()
+> 🔗[Play Simon Game](https://cakirgozbahar.github.io/simon-game/)
 
 ### 🔧 Run Locally
 To run the project:
